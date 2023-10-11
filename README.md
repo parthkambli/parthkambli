@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Parth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/parth-kambli-24880613a/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Parth-green)](https://parthkambli.github.io/My-profile/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Parth-green)]([https://parthkambli.github.io/My-profile/](https://parthkambli-portfolio.netlify.app/))
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Parth-yellow)](https://stackoverflow.com/users/13589428/parth-kambli?tab=profile)
 
 I'm
