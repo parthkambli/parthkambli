@@ -1,16 +1,21 @@
  <div align="center">
 
-# Hi, I'm Parth Kambli 👋
+# 👋 Hey, I'm Parth Kambli
 
-### MERN Stack Developer · Web Developer · Builder
+### MERN Stack Developer | Building Web Applications & Digital Solutions
 
-I build practical web applications and digital solutions — from responsive user interfaces to backend APIs, databases, and integrations.
+I turn ideas into functional web applications, combining clean frontend experiences with practical backend solutions.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=parthkambli&label=Profile%20views&color=2563eb&style=flat)](https://github.com/parthkambli)
-[![Followers](https://img.shields.io/github/followers/parthkambli?label=Followers&style=flat&color=2563eb)](https://github.com/parthkambli?tab=followers)
-[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fparthkambli&query=%24.public_repos&label=Public%20Repos&color=2563eb&logo=github)](https://github.com/parthkambli?tab=repositories)
+<p>
+  <a href="https://github.com/parthkambli">
+    <img src="https://komarev.com/ghpvc/?username=parthkambli&label=PROFILE%20VIEWS&color=2563eb&style=for-the-badge" alt="Profile views"/>
+  </a>
+  <a href="https://github.com/parthkambli?tab=followers">
+    <img src="https://img.shields.io/github/followers/parthkambli?style=for-the-badge&color=2563eb&label=FOLLOWERS" alt="Followers"/>
+  </a>
+</p>
 
-[Portfolio](https://parthkambli-portfolio.netlify.app/) · [DigiInnov8ive](https://digiinnov8ive.com) · [Email](mailto:kambliparth1998@gmail.com)
+[🌐 Portfolio](https://parthkambli-portfolio.netlify.app/) · [💼 DigiInnov8ive](https://digiinnov8ive.com) · [📧 Contact Me](mailto:kambliparth1998@gmail.com)
 
 </div>
 
@@ -18,102 +23,173 @@ I build practical web applications and digital solutions — from responsive use
 
 ## 👨‍💻 About Me
 
-- 💻 I develop full-stack web applications using the **MERN stack**.
-- ⚛️ I work with **React.js, JavaScript, Node.js, Express.js, and MongoDB**.
-- 🔧 I enjoy working across the stack — frontend, backend, REST APIs, authentication, databases, and integrations.
-- 🚀 I'm building **LifeDeck**, a personal productivity application.
-- 🧩 I'm growing [DigiInnov8ive](https://digiinnov8ive.com), a digital studio focused on websites, software, and digital products.
-- 📚 I'm continuously improving my development skills by building and experimenting with real-world projects.
+I'm a developer focused on building modern, scalable, and user-friendly web applications.
 
-I'm interested in creating useful products, improving development workflows, and turning ideas into reliable software.
-
-## 🛠️ Tech Stack & Tools
-
-**Frontend**
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend technologies" />
-</p>
-
-**Backend & Database**
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and database technologies" />
-</p>
-
-**Tools & Design**
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Development tools" />
-</p>
-
-## 🚧 Featured Project
-
-### LifeDeck — Personal Productivity App
-
-A personal productivity application focused on bringing everyday planning and tracking into one place.
-
-**Planned areas include:**
-- Task and note management
-- Reminders and daily planning
-- Workout tracking
-- Personal finance tracking
-
-**Tech direction:** React, Vite, Tailwind CSS, JavaScript, and a MERN-oriented backend.
-
-[Explore my repositories](https://github.com/parthkambli?tab=repositories) · [Visit my portfolio](https://parthkambli-portfolio.netlify.app/)
-
-> Project status: In development. Features and implementation may change as the project evolves.
+- 🔭 Currently building **LifeDeck**, a personal productivity application.
+- ⚛️ Working with **React.js, JavaScript, Node.js, Express.js, and MongoDB**.
+- 🛠️ Experienced in frontend development, backend integration, REST APIs, authentication, and database management.
+- 🚀 Growing **DigiInnov8ive**, my digital studio focused on websites, software, and digital products.
+- 🌱 Continuously learning, experimenting, and improving through real-world projects.
+- 🎯 Interested in full-stack development, SaaS applications, automation, and product engineering.
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🗂️ LifeDeck
+
+**Personal Productivity & Management App**
+
+A centralized personal workspace designed to manage different aspects of everyday life.
+
+**Features**
+- Authentication
+- Project management
+- Notes and reminders
+- Workout tracking
+- Finance management
+- Learning and daily planning
+
+**Tech Stack**
+
+`React` `Vite` `Tailwind CSS` `JavaScript` `Node.js` `Express` `MongoDB`
+
+[Frontend Repository ↗](https://github.com/parthkambli/LifeDeck-FE)
+
+[Backend Repository ↗](https://github.com/parthkambli/LifeDeck-SE)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 DigiInnov8ive
+
+**Digital Studio Website**
+
+The website for my digital studio, focused on presenting web development services and digital solutions.
+
+**Highlights**
+- Responsive website experience
+- Modern visual identity
+- Service-focused presentation
+- Deployment automation
+- GitHub Actions and Hostinger deployment
+
+**Tech Stack**
+
+`JavaScript` `Vite` `CSS` `GitHub Actions`
+
+[Visit Live Website ↗](https://digiinnov8ive.com)
+
+</td>
+</tr>
+</table>
+
+### More Projects
+
+I'm continuously working on new applications and experimenting with different technologies.
+
+[Explore All My Repositories →](https://github.com/parthkambli?tab=repositories)
+
+---
+
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fparthkambli&query=%24.public_repos&label=Total%20Public%20Repos&color=2563eb&style=for-the-badge&logo=github" alt="Total public repositories" />
+### Frontend Development
 
-<img src="https://github-readme-stats.vercel.app/api?username=parthkambli&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub statistics including stars and commits" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend technologies"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkambli&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most used programming languages" />
+### Backend & Database
 
-<img src="https://streak-stats.demolab.com?user=parthkambli&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend technologies"/>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Development tools"/>
 
 </div>
 
-## 📈 Contribution Activity
+---
+
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthkambli&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution and commit activity graph" />
+<a href="https://github.com/parthkambli">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=parthkambli&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/parthkambli">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkambli&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most used languages"/>
+</a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthkambli&theme=tokyonight" alt="GitHub contribution calendar and profile summary" />
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=parthkambli&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fparthkambli&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&style=for-the-badge&color=2563eb" alt="Public repositories"/>
 
 </div>
+
+---
+
+## 📈 Contribution Overview
+
+<div align="center">
+
+### Contribution Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthkambli&theme=tokyonight" width="100%" alt="Full GitHub contribution summary"/>
+
+### Commit & Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthkambli&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true&custom_title=Contribution%20Activity%20Over%20Time" width="100%" alt="Contribution activity graph"/>
+
+### Development Patterns
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parthkambli&theme=tokyonight&utcOffset=5.5" width="49%" alt="Productive time"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthkambli&theme=tokyonight" width="49%" alt="GitHub statistics summary"/>
+
+</div>
+
+---
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=parthkambli&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=parthkambli&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" width="100%" alt="GitHub trophies"/>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthkambli)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://parthkambli-portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kambliparth1998@gmail.com)
-[![DigiInnov8ive](https://img.shields.io/badge/DigiInnov8ive-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://digiinnov8ive.com)
+<a href="https://github.com/parthkambli">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://parthkambli-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="mailto:kambliparth1998@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://digiinnov8ive.com">
+<img src="https://img.shields.io/badge/DigiInnov8ive-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DigiInnov8ive"/>
+</a>
 
-</div>
+<br/><br/>
 
-<div align="center">
-
-*Building, learning, experimenting, and improving — one project at a time.*
+**"Build. Learn. Experiment. Repeat."**
 
 </div>
