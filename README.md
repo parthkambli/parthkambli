@@ -1,27 +1,119 @@
-<h1 align="center">Hi 👋, I'm Parth Kambli</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+ <div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthkambli&label=Profile%20views&color=0e75b6&style=flat" alt="parthkambli" /> </p>
+# Hi, I'm Parth Kambli 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthkambli" alt="parthkambli" /></a> </p>
+### MERN Stack Developer · Web Developer · Builder
 
-- 🔭 I’m currently working on [Life Deck](https://cornflowerblue-dogfish-562640.hostingersite.com/)
+I build practical web applications and digital solutions — from responsive user interfaces to backend APIs, databases, and integrations.
 
-- 🌱 I’m currently learning **MERN**
+[![Profile Views](https://komarev.com/ghpvc/?username=parthkambli&label=Profile%20views&color=2563eb&style=flat)](https://github.com/parthkambli)
+[![Followers](https://img.shields.io/github/followers/parthkambli?label=Followers&style=flat&color=2563eb)](https://github.com/parthkambli?tab=followers)
+[![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fparthkambli&query=%24.public_repos&label=Public%20Repos&color=2563eb&logo=github)](https://github.com/parthkambli?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [https://parthkambli-portfolio.netlify.app/](https://parthkambli-portfolio.netlify.app/)
+[Portfolio](https://parthkambli-portfolio.netlify.app/) · [DigiInnov8ive](https://digiinnov8ive.com) · [Email](mailto:kambliparth1998@gmail.com)
 
-- 📫 How to reach me **kambliparth1998@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+## 👨‍💻 About Me
+
+- 💻 I develop full-stack web applications using the **MERN stack**.
+- ⚛️ I work with **React.js, JavaScript, Node.js, Express.js, and MongoDB**.
+- 🔧 I enjoy working across the stack — frontend, backend, REST APIs, authentication, databases, and integrations.
+- 🚀 I'm building **LifeDeck**, a personal productivity application.
+- 🧩 I'm growing [DigiInnov8ive](https://digiinnov8ive.com), a digital studio focused on websites, software, and digital products.
+- 📚 I'm continuously improving my development skills by building and experimenting with real-world projects.
+
+I'm interested in creating useful products, improving development workflows, and turning ideas into reliable software.
+
+## 🛠️ Tech Stack & Tools
+
+**Frontend**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="Frontend technologies" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+**Backend & Database**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthkambli&show_icons=true&locale=en&layout=compact" alt="parthkambli" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and database technologies" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthkambli&show_icons=true&locale=en" alt="parthkambli" /></p>
+**Tools & Design**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthkambli&" alt="parthkambli" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Development tools" />
+</p>
+
+## 🚧 Featured Project
+
+### LifeDeck — Personal Productivity App
+
+A personal productivity application focused on bringing everyday planning and tracking into one place.
+
+**Planned areas include:**
+- Task and note management
+- Reminders and daily planning
+- Workout tracking
+- Personal finance tracking
+
+**Tech direction:** React, Vite, Tailwind CSS, JavaScript, and a MERN-oriented backend.
+
+[Explore my repositories](https://github.com/parthkambli?tab=repositories) · [Visit my portfolio](https://parthkambli-portfolio.netlify.app/)
+
+> Project status: In development. Features and implementation may change as the project evolves.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fparthkambli&query=%24.public_repos&label=Total%20Public%20Repos&color=2563eb&style=for-the-badge&logo=github" alt="Total public repositories" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=parthkambli&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub statistics including stars and commits" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkambli&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most used programming languages" />
+
+<img src="https://streak-stats.demolab.com?user=parthkambli&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parthkambli&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution and commit activity graph" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthkambli&theme=tokyonight" alt="GitHub contribution calendar and profile summary" />
+
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=parthkambli&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthkambli)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://parthkambli-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kambliparth1998@gmail.com)
+[![DigiInnov8ive](https://img.shields.io/badge/DigiInnov8ive-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://digiinnov8ive.com)
+
+</div>
+
+<div align="center">
+
+*Building, learning, experimenting, and improving — one project at a time.*
+
+</div>
