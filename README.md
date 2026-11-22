@@ -80,7 +80,8 @@ The idea is to combine:
 
 **Contribution Streak**
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=parthkambli&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+<img width="70%" src="https://streak-stats.demolab.com/?user=parthkambli&theme=dark&hide_border=true&fire=FF5A1F" alt="GitHub contribution streak" />
+
 
 </div>
 
