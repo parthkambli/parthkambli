@@ -65,15 +65,22 @@ The idea is to combine:
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthkambli&theme=github_dark" />
+**Contribution Activity**
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthkambli&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parthkambli&theme=github_dark&utcOffset=5.5" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=parthkambli&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parthkambli&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parthkambli&theme=github_dark" />
+<br/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=parthkambli&theme=github-dark-blue&hide_border=true" />
+**GitHub Overview**
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parthkambli&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkambli&layout=compact&hide_border=true&theme=github_dark&langs_count=6" alt="Most used programming languages" />
+
+<br/>
+
+**Contribution Streak**
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=parthkambli&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
