@@ -1,61 +1,51 @@
+ <div align="center">
 
-<div align="center">
+# PARTH KAMBLI
 
-# Hey, I'm Parth Kambli 👋
+**Full-Stack JavaScript Developer**
 
-### React Developer | Full-Stack JavaScript Developer
+I build web applications, connect systems, solve practical problems, and turn ideas into working software.
 
-Building responsive web applications and exploring the complete development lifecycle — from frontend interfaces to backend APIs and databases.
-
-<br/>
-
-<a href="https://parthkambli-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://github.com/parthkambli">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:kambliparth1998@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[Portfolio](https://parthkambli-portfolio.netlify.app/) · [GitHub](https://github.com/parthkambli) · [Email](mailto:kambliparth1998@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### `01 / THE DEVELOPER`
 
-- 💼 Working as a **React Developer**.
-- 🌱 Expanding my skills across the **MERN stack**.
-- ⚙️ Interested in frontend development, backend APIs, authentication, and database integration.
-- 🚀 Building practical applications and improving through hands-on development.
-- 📍 Based in India.
+I'm a React Developer working across the frontend and backend of modern web applications.
+
+My work involves building interfaces, developing APIs, implementing authentication, integrating databases, and making different parts of an application work together.
+
+Currently expanding my capabilities across the MERN stack and focusing on writing better, more maintainable code.
+
+| CURRENT ROLE | ENGINEERING INTERESTS |
+|:---|:---|
+| React Developer | Full-stack JavaScript |
+| Frontend + Backend | REST APIs & Authentication |
+| Application Development | Database Integration |
 
 ---
 
-## 🚀 Featured Project
+### `02 / CURRENTLY BUILDING`
 
-<table>
-<tr>
-<td width="100%">
+**LifeDeck — Personal Life Management**
 
-### LifeDeck — Personal Life Management App
+A personal productivity application designed to bring everyday life management into one place.
 
-A personal productivity application I'm developing to bring everyday planning and life-management tools into one place.
+The idea is to combine:
 
-**Tech Stack:** React · JavaScript · Node.js · Express · MongoDB
+- Task and note management
+- Reminders and daily planning
+- Workout tracking
+- Personal finance tracking
 
-**Repositories:**
+**Stack:** React · Vite · Tailwind CSS · Node.js · Express · MongoDB
 
-[Frontend Repository](https://github.com/parthkambli/LifeDeck-FE) · [Backend Repository](https://github.com/parthkambli/LifeDeck-SE)
+---
 
-</td>
-</tr>
-</table>
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
+### `03 / TECHNOLOGIES & TOOLS`
 
 **Frontend**
 
@@ -63,35 +53,25 @@ A personal productivity application I'm developing to bring everyday planning an
 
 **Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-**Development Tools**
+**Development Environment**
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
 
-</div>
-
 ---
 
-## 📊 GitHub Analytics
+### `04 / GITHUB ACTIVITY`
 
 <div align="center">
 
-### Profile Overview
-
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthkambli&theme=github_dark" />
 
-### Statistics
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthkambli&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parthkambli&theme=github_dark&utcOffset=5.5" />
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=parthkambli&theme=github_dark" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parthkambli&theme=github_dark&utcOffset=5.5" />
-
-### Language Distribution
-
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parthkambli&theme=github_dark" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parthkambli&theme=github_dark" />
-
-### Contribution Streak
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parthkambli&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parthkambli&theme=github_dark" />
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=parthkambli&theme=github-dark-blue&hide_border=true" />
 
@@ -99,22 +79,16 @@ A personal productivity application I'm developing to bring everyday planning an
 
 ---
 
-## 🤝 Connect With Me
+### `05 / FIND ME`
+
+| PLATFORM | LINK |
+|:---|:---|
+| Portfolio | [parthkambli-portfolio.netlify.app](https://parthkambli-portfolio.netlify.app/) |
+| GitHub | [@parthkambli](https://github.com/parthkambli) |
+| Email | [Get in touch](mailto:kambliparth1998@gmail.com) |
 
 <div align="center">
 
-<a href="https://github.com/parthkambli">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://parthkambli-portfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="mailto:kambliparth1998@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/><br/>
-
-**Building. Learning. Improving.**
+**Less noise. More building.**
 
 </div>
